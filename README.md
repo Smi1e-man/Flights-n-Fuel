@@ -1,6 +1,6 @@
 # Flights-n-Fuel
 ### Unity3D | C# | Mobile Game | [name] Flights &amp; Fuel
-Video Gameplay
+Video Gameplay iPad
 
 <p align="center">
 <img src="img_flightsfuel_1.png"/>
